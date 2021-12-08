@@ -1,0 +1,19 @@
+{
+    "name": "Dark Dick",
+    "symbol": "8D",
+    "image": "02.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "02.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "31hPUht6ykqMM3BWYfj8A261Fyh5ticRMezajiDHMic1",
+          "share": 100
+        }
+      ]
+    }
+  }

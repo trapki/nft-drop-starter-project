@@ -1,0 +1,19 @@
+{
+    "name": "Albino Dick",
+    "symbol": "8D",
+    "image": "03.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "03.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "31hPUht6ykqMM3BWYfj8A261Fyh5ticRMezajiDHMic1",
+          "share": 100
+        }
+      ]
+    }
+  }

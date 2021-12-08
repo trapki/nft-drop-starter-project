@@ -1,0 +1,19 @@
+{
+    "name": "The Golden Phallys",
+    "symbol": "8D",
+    "image": "01.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "01.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "31hPUht6ykqMM3BWYfj8A261Fyh5ticRMezajiDHMic1",
+          "share": 100
+        }
+      ]
+    }
+  }
